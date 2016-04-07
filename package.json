@@ -1,0 +1,20 @@
+{
+  "name": "mii-connector",
+  "main": "./lib/mii-connector",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "mii-connector:toggle"
+  },
+  "repository": "https://github.com/atom/mii-connector",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery" : ">=2.0.0",
+    "Buffer" : ">=0.0.0"
+  }
+}
